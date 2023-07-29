@@ -1,0 +1,10 @@
+{
+    "dashboard":{
+        "posts": 5,
+        "likes": 3,
+        "comments": 10,
+        "followers": 2,
+        "following": 4
+    }
+    
+}
